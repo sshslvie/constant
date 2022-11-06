@@ -2,7 +2,7 @@
 
 Dear Constant members, 
 
-Through this repository I share with you my application, motivation and demonstration, for joining you over at constant. 
+Through this repository I share with you my application for joining you over at constant. 
 
 Notes on method ; 
 
