@@ -6,6 +6,8 @@ Through this repository I share you my application, motivation and demonstration
 
 Notes on method ; 
 
+Starting from the notion that "to apply" (verb) to make a formal request to be considered and as a noun, "application" can refer to a computor program or piece of software. 
+
 
 #### CONTENT 
 
